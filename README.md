@@ -19,7 +19,7 @@
 ---
 **About Project**
 - Blockchain Dapp since 2023,
-- Projet in Vietnam.
+- Project in Vietnam.
 ---
 **Some technologies using**
  - Front-end:NextJs
