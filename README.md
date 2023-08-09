@@ -22,15 +22,12 @@
 - Projet in Vietnam.
 ---
 **Some technologies using**
-- Some technologies using:
  - Front-end:NextJs
  - Back-end: Node.js
  - Database: MongoDb
  - Blockchain: Ethereum Virtual Machine / Klaytn Foundation
  - Languages: **NextJs** / **Solidity** 
- - Languages: VSC
 ---
-**Find on the web**
 Find on the web:
 -----------------------
 - In public on <a href="https://youtube.com/@saigonwallet">Youtube</a>
