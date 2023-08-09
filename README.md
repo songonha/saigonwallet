@@ -21,6 +21,7 @@
 - Blockchain Dapp since 2023,
 - Projet in Vietnam.
 ---
+**Some technologies using**
 - Some technologies using:
  - Front-end:NextJs
  - Back-end: Node.js
@@ -29,6 +30,7 @@
  - Languages: **NextJs** / **Solidity** 
  - Languages: VSC
 ---
+**Find on the web**
 Find on the web:
 -----------------------
 - In public on <a href="https://youtube.com/@saigonwallet">Youtube</a>
