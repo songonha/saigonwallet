@@ -1,1 +1,31 @@
-Index
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Plant Management Dapp</title>
+</head>
+<body>
+    <h1>Plant Management Dapp</h1>
+    <button onclick="loadPlants()">Load Plants</button>
+    <hr>
+    <h2>Plant a New Plant</h2>
+    <label>Type of Plant:</label>
+    <input type="text" id="plantType" placeholder="Enter plant type">
+    <button onclick="plant()">Plant</button>
+    <hr>
+    <h2>Manage Plant</h2>
+    <label>Plant ID:</label>
+    <input type="number" id="plantId" placeholder="Enter plant ID">
+    <label>New Health Status:</label>
+    <input type="number" id="newStatus" placeholder="Enter new health status">
+    <button onclick="updateHealthStatus()">Update Health Status</button>
+    <hr>
+    <h2>Plant Information</h2>
+    <label>Plant ID:</label>
+    <input type="number" id="plantInfoId" placeholder="Enter plant ID">
+    <button onclick="getPlantInfo()">Get Plant Info</button>
+    <div id="plantInfo"></div>
+
+    <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
