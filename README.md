@@ -18,8 +18,8 @@
 
 ---
 **About Project**
-- Blockchain Dapp since 2023,
-- Project in Vietnam.
+- Real-World Assets: Bonsai Plants,
+- Project idea: 
 ---
 **Some technologies using**
  - Front-end: NextJs
