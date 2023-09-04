@@ -22,9 +22,8 @@
 - Project in Vietnam.
 ---
 **Some technologies using**
- - Front-end:NextJs
+ - Front-end: NextJs
  - Back-end: Node.js
- - Database: MongoDb
  - Blockchain: Ethereum Virtual Machine / Klaytn Foundation
  - Languages: **NextJs** / **Solidity** 
 ---
